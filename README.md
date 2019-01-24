@@ -1,10 +1,10 @@
 # Squad-Roles-Survey-Project
 
-Survey and analysis of the Squad Roles Survey.
+Survey and analysis of the Squad Roles Survey. 
 
-This survey asked participants to rate the relative importance and effectiveness of the different fire support roles in Squad (v11).
+[Squad](http://joinsquad.com) is a 50 vs. 50 online first-person shooter focused on communication and combat realism by simulating combined arms warfare.
 
-http://joinsquad.com
+Participants were to rate the importance and effectiveness of the different fire support roles in Squad (v11).
 
 ## Results poster
 ![results poster](https://github.com/boredStats/Squad-Roles-Survey-Project/blob/master/figures/poster.png?raw=true)
