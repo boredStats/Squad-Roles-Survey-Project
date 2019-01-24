@@ -7,4 +7,4 @@ This survey asked participants to rate the relative importance and effectiveness
 http://joinsquad.com
 
 ## Results poster
-(results poster)[https://github.com/boredStats/Squad-Roles-Survey-Project/blob/master/figures/poster.png?raw=true]
+![results poster](https://github.com/boredStats/Squad-Roles-Survey-Project/blob/master/figures/poster.png?raw=true)
